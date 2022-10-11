@@ -1,0 +1,523 @@
+a:2:{s:6:"expire";i:1621511777;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8" />
+ 
+   <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="icon" href="//www.viasacademy.com/front_assets/img/favicon.png" type="image/png" />
+   <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQP4TLM');</script>
+<!-- End Google Tag Manager -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="UPSC Preperation" content="viasacademy" />
+        <property="twitter:title" content="UPSC Civil Services Preparation (IAS,IPS,IFS) Online Preparation | Vedanta" >
+    <meta data-rh="true" property="twitter:description" content="Preparation for UPSC live from Top IAS faculty with detailed, structured, studey material, notes, video's for UPSC - Civil Services Examination (IAS) Preparation  with viasacademy."/>
+    
+            
+   <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no">
+     <title>VIASACADEMY | IAS Online Coaching | upsc live classes</title>
+    <meta name="description" content="best IAS Online Coaching platform in India Learn from India's Top Teachers anywhere, anytime with viasacademy. UPSC online free coaching, get the best Civil Services Coaching click to register">
+    
+    <meta name="keywords" content="IAS Online Coaching, viasacademy, ias live Classes, upsc online coaching, civil services  online coaching, free ias coaching, online ias academy, online ias institute in india, online  ias coaching in mukherjee nagar delhi, vedanta online coaching, online upsc prepration, online ias portal, upsc 2021 prepration, vedanta ias academy, ias coaching in delhi, best ias coaching in delhi, upsc coaching in delhi, best upsc coaching in delhi, 
+top ias coaching in delhi, ias academy in delhi, best ias academy in delhi, ias coaching in delhi fees, ias institute in delhi,
+top 10 ias coaching in delhi 2020, ias coaching centre in delhi, upsc classes in delhi, upsc coaching centre in delhi, top upsc coaching in delhi,
+bpsc coaching in delhi, civil services coaching in delhi, pcs coaching in delhi, upsc coaching in delhi fees, ias coaching in rohini , ias coaching rithala, 
+ias coaching in pitampura , ias coaching in peragarhi, ias, upsc syllabus, upsc online, upsc exam, ias syllabus, upsc 2020, ias exam, upsc prelims 2019,
+upsc ias prelims question paper, upsc syllabus 2020, ias preparation, ias question paper, ias coaching, ias academy, civil service coaching,
+ias coaching near me, upsc coaching near me, ias coaching centre, upsc classes near me, best coaching for upsc, vedanta ias academy,
+vedant ias, ias live classes,ias online portal, upsc online class, ias online coaching, online ias academy, 
+online ias institute,online ias preparation, ias online tutorials, online ias faculty, civil Services Online Coaching, 
+ias prelims online coaching, ias online coaching, online ias academy, upsc online class, online ias institute,
+ias prelims online free coaching, upsc online coaching, best online coaching for ias, vedanta online ias academy,
+vedanta ias online coaching, vedanta ias online classes, online classes for ias, best online coaching for upsc,
+free online coaching for ias, online officers ias academy, vedanta online classes, online upsc preparation,
+vedanta ias free test series, vedanta ias academy online classes, vedanta ias online, ias pcs free coaching sarkari result,
+vedanta ias academy appsc, vedanta ias online academy, best online classes for upsc, vedanta ias online classes fees,
+best online coaching for upsc 2020, geography optional online classes, best websites for ias preparation,
+best website for upsc preparation, vedanta ias online course, vedanta ias online classes, maths optional online coaching,
+free online coaching for ias in hindi medium, sociology optional online classes, online ias coaching classes,
+civil service online coaching, ias online coaching in hindi medium, upsc online coaching in hindi medium,
+best online coaching for ias quora, free online ias coaching classes in hindi medium, best online course for upsc,
+ias online coaching free in hindi, upsc online classes in hindi, geography online classes for upsc, upsc online coaching free,
+vedanta ias study material buy online, geography optional coaching online, best online test series for ias, sociology optional coaching online,
+csat online coaching, csat online classes, anthropology optional online classes, sociology optional online coaching for 2020,
+civils online coaching, vedanta ias academy online class fees structure, uppcs online coaching in hindi, chemistry optional online coaching,
+vedanta ias free test series 2020, ias online free coaching in hindi, vedanta ias online coaching in hindi, ias training online, upsc,
+free ias coaching, ias study material, ias foundation, ias prelims, ias 2021, ias preparation, ias optional coaching, civil services online classes,
+online ias coaching, ias portal">
+  
+   <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/style2.css" />
+   <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/style.css" />
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/bootstrap.css"  type="text/css"/>
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/flaticon.css" type="text/css" />
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/css/themify-icons.css" type="text/css" />
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/vendors/owl-carousel/owl.carousel.min.css"  type="text/css"/>
+    <link rel="stylesheet" href="//www.viasacademy.com/front_assets/vendors/nice-select/css/nice-select.css"  type="text/css"/>
+ 
+  
+	 <script src="//www.viasacademy.com/front_assets/js/jquery-3.2.1.min.js"></script>
+	 
+	 
+	 	<script type="text/jscript">
+  function disableContextMenu()
+  {
+    window.frames["fraDisabled"].document.oncontextmenu = function(){alert("No way!"); return false;};   
+    // Or use this
+    // document.getElementById("fraDisabled").contentWindow.document.oncontextmenu = function(){alert("No way!"); return false;};;    
+  }  
+</script>
+
+
+
+
+  </head>
+
+  <body onload="disableContextMenu();" oncontextmenu="return false">
+   
+    <header class="header_area">
+      <div class="main_menu">
+ 
+ 
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <div class="container">
+            
+            <a class="navbar-brand " href="//www.viasacademy.com/" ><img src="//www.viasacademy.com/front_assets/img/logo.png" alt=""
+            /></a>
+		 
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="icon-bar"></span> <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+			
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+              <ul class="nav navbar-nav menu_nav ml-auto">
+                 
+			
+				
+				  <li class="nav-item submenu dropdown">
+                  <a href="#"  class="nav-link dropdown-toggle text-blue blink-hard" data-toggle="dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Face To Face Class</a>
+                  <ul class="dropdown-menu">
+                    <li class="nav-item">
+                      <a class="nav-link" href="//www.viasacademy.com/home/free_facetoface">Free Class</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="//www.viasacademy.com/home/facetoface">Paid Class</a>
+                    </li>
+                  </ul>
+                </li>
+				
+				
+				 <li class="nav-item">
+                  <a class="nav-link" href="//www.viasacademy.com/vias-faculty">Demo Video</a>
+                </li>
+				
+               <li class="nav-item">
+                  <a class="nav-link text-red blink-hard" href="//www.viasacademy.com/home/liveclass">Live Class</a>
+                </li>
+                
+                <li class="nav-item">
+                  <a class="nav-link" href="//www.viasacademy.com/home/current_affair">Current Affairs</a>
+                </li>
+				
+		
+	 
+				 <!-- <li class="nav-item">
+                  <a class="nav-link" href="//www.viasacademy.com/home/current_affair"></a>
+                </li>-->
+				
+				
+				
+				<!--<li class="nav-item submenu dropdown">
+				<a href="#"class="nav-link dropdown-toggle"data-toggle="dropdown"role="button" aria-haspopup="true"            aria-expanded="false" >About Us</a>
+				<ul class="dropdown-menu">
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/about-us">About Us</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/director_message">Director Message</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/viasfacility">Vias Facility</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/vias_faculty">Vias Faculty</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/iassyllaybus">IAS Syllabus</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/gs_optional">GS & Optional</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/ias_blog">IAS Blog</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/terms-and-conditiions">Terms & Conditions</a></li>
+								<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/pages/privacy-policy">Privacy Policy</a></li>
+								
+				<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/home/fee">Fee Structure</a></li>
+				<li class="nav-item">
+				<a class="nav-link" href="//www.viasacademy.com/reg-form/">Online Registation </a></li>
+				</ul>
+				</li>-->
+				
+				
+                <li class="nav-item submenu dropdown">
+    <a href="#"class="nav-link dropdown-toggle"data-toggle="dropdown"role="button" aria-haspopup="true"            aria-expanded="false" >Study Material</a>
+	
+	<ul class="dropdown-menu">
+				   
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/4/General Studies ">General Studies </a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/5/Prelims GS">Prelims GS</a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/6/CSAT">CSAT</a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/7/Essay">Essay</a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/8/Language">Language</a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/9/Current Affairs">Current Affairs</a>  </li>
+						 
+                    <li class="nav-item">  <a class="nav-link" href="//www.viasacademy.com/our-course/10/Optional Subjects">Optional Subjects</a>  </li>
+						 
+                  </ul>
+                </li>
+				
+				
+				<li class="nav-item submenu dropdown">    <a href="#"class="nav-link dropdown-toggle"data-toggle="dropdown"role="button" aria-haspopup="true" aria-expanded="false" >Other Links</a> 	<ul class="dropdown-menu">    <li class="nav-item"><a class="nav-link" target="_blank"  href="http://vedantaiasacademy.co.in/">vedantaiasacademy.co.in</a></li>  <li class="nav-item"><a class="nav-link" target="_blank" href="http://vedantaiasacademy.org/">vedantaiasacademy.org</a></li>  <li class="nav-item"><a class="nav-link" target="_blank" href="http://vedantaiasacademy.in/">vedantaiasacademy.in</a></li>  <li class="nav-item"><a class="nav-link" target="_blank" href="http://iascoaching.co.in/">iascoaching.co.in</a></li>					                    </ul>                </li>
+            
+                <li class="nav-item">
+                  <a class="nav-link" href="https://onlinetest.viasacademy.com/" target="_blank">Online Test</a>
+                </li>
+				
+				
+					 
+                   <li class="nav-item submenu dropdown">
+                  <a  href="#"  class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                    aria-expanded="false"  >Welcome Shivani Kumari
+
+								<img src="https://treasuresofinnocence.org/wp-content/uploads/2016/11/icon-user-default.png" width="35" style="border-radius:50%" >
+					
+									
+					
+					</a>
+                  <ul class="dropdown-menu">
+                    <li class="nav-item">
+                      <a class="nav-link" href="//www.viasacademy.com/users/account">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+<a class="nav-link" href="//www.viasacademy.com/users/logout">Logout</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+								
+				
+				
+              </ul>
+            </div>
+          </div>
+          </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+	 
+	<style>
+	.text-red {
+  color: red !important;
+}
+
+
+.text-blue {
+    color: #3979ef !important;
+}
+
+.blink-hard {
+  animation: blinker 1s step-end infinite;
+}
+.blink-soft {
+  animation: blinker 1.5s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+
+
+   
+ 
+  <section class="banner_area">
+      <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-6">
+              <div class="banner_content text-center">
+                <h2> महासागरीय जलधाराएं </h2>
+                <div class="page_link">
+                  <a href="#">Home</a>
+                  <a href="#">Courses</a>
+                </div>
+              </div>
+            </div>
+          </div> 
+        </div>
+      </div>
+    </section>
+	
+	
+	
+		
+	4	
+	 
+
+<section class="blog_area single-post-area section_gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 posts-list">
+                    <div class="single-post row">
+                        <div class="col-lg-12">
+                            <div class="feature-img">
+ 
+                              <video width="100%" height="auto" controls controlsList="nodownload">
+  <source src="https://media.viasacademy.com/viasacademy/hindimed/Geography/Geography_07_10_20.mp4" type="video/mp4">
+ 
+</video>
+                            </div>
+                        </div>
+                     
+                        <div class="col-lg-12 col-md-12 blog_details">
+                            <h2>महासागरीय जलधाराएं</h2>
+                             
+                           
+                        </div>
+                    </div>
+              
+                  
+                   
+                </div>
+                <div class="col-lg-4">
+                        <div class="blog_right_sidebar">
+                          
+                            <aside class="single_sidebar_widget author_widget">
+                                <img class="author_img rounded-circle" src="img/blog/author.png" alt="">
+                                <h4>Security Challenges and Their Management in Border Areas						
+						
+						
+						 </h4>
+                                <p></p>
+                                
+                                <p> </p>
+                                <div class="br"></div>
+                            </aside>
+                         
+                            <aside class="single_sidebar_widget ads_widget">
+                                <a href="#"><img class="img-fluid" src="img/blog/add.jpg" alt=""></a>
+                                <div class="br"></div>
+                            </aside>
+                            
+                     
+                            
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+	
+			 <!--================ Start footer Area  =================-->
+    <footer class="footer-area section_gap">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-2 col-md-6 single-footer-widget">
+            <h4>Top Course</h4>
+            <ul>
+			              <li><a href="//www.viasacademy.com/our-course/4/General Studies ">General Studies </a></li>
+			              <li><a href="//www.viasacademy.com/our-course/5/Prelims GS">Prelims GS</a></li>
+			              <li><a href="//www.viasacademy.com/our-course/6/CSAT">CSAT</a></li>
+			              <li><a href="//www.viasacademy.com/our-course/7/Essay">Essay</a></li>
+			              <li><a href="//www.viasacademy.com/our-course/8/Language">Language</a></li>
+			              <li><a href="//www.viasacademy.com/our-course/9/Current Affairs">Current Affairs</a></li>
+			              <li><a href="//www.viasacademy.com/our-course/10/Optional Subjects">Optional Subjects</a></li>
+			              
+            </ul>
+			
+		 
+          </div>
+          <div class="col-lg-2 col-md-6 single-footer-widget">
+            <h4>Quick Links</h4>
+            <ul>
+              
+              <li><a href="//www.viasacademy.com/home/online_registration">Online Registration</a></li>
+              <li><a href="//www.viasacademy.com/our-package">Our Package</a></li>
+              <li><a href="//www.viasacademy.com/contact-us">Contact Us</a></li>
+              <li><a href="#">Career</a></li>
+              <li><a href="#">Terms of Service</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-md-6 single-footer-widget">
+            <h4>Other Link</h4>
+            <ul>
+			
+							<li>
+				<a  href="//www.viasacademy.com/pages/about-us">About Us</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/director_message">Director Message</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/viasfacility">Vias Facility</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/vias_faculty">Vias Faculty</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/iassyllaybus">IAS Syllabus</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/gs_optional">GS & Optional</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/ias_blog">IAS Blog</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/terms-and-conditiions">Terms & Conditions</a></li>
+								<li>
+				<a  href="//www.viasacademy.com/pages/privacy-policy">Privacy Policy</a></li>
+								
+            
+		 
+             
+            </ul>
+          </div>
+          <div class="col-lg-2 col-md-6 single-footer-widget">
+            <h4>Resources</h4>
+            <ul>
+              <li><a href="//www.viasacademy.com/users/login">Login</a></li>
+              <li><a href="//www.viasacademy.com/users/registration">Signup</a></li>
+            
+              <li><a href="//www.viasacademy.com/home/enquiry">Enquiry</a></li>
+              
+            </ul>
+          </div>
+          <div class="col-lg-4 col-md-6 single-footer-widget">
+            <h4>Newsletter</h4>
+            <p>You can trust us. we only send promo offers,</p>
+            <div class="form-wrap" id="mc_embed_signup">
+              <form
+                target="_blank"
+                action="#"
+                method="get"
+                class="form-inline"
+              >
+                <input
+                  class="form-control"
+                  name="EMAIL"
+                  placeholder="Your Email Address"
+                  onfocus="this.placeholder = ''"
+                  onblur="this.placeholder = 'Your Email Address'"
+                  required=""
+                  type="email"
+                />
+                <button class="click-btn btn btn-default">
+                  <span>subscribe</span>
+                </button>
+                <div style="position: absolute; left: -5000px;">
+                  <input
+                    name="b_36c4fd991d266f23781ded980_aefe40901a"
+                    tabindex="-1"
+                    value=""
+                    type="text"
+                  />
+                </div>
+
+                <div class="info"></div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="row footer-bottom d-flex justify-content-between">
+          <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+© Copyrights 2019 Vedanta IAS Academy. Designed and Developed by <a href="https://www.lodhitech.com/" target="_blank" color="#fff"> LODHITECH.COM</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+          </p>
+          <div class="col-lg-4 col-sm-12 footer-social">
+            <a href="https://www.facebook.com/viasacademyofficial" target="_blank"><i class="ti-facebook"></i></a>
+            <a href="https://twitter.com/VEDANTA_IAS" target="_blank"><i class="ti-twitter"></i></a>
+           
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--================ End footer Area  =================-->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+   
+    <script src="//www.viasacademy.com/front_assets/js/popper.js"></script>
+    <script src="//www.viasacademy.com/front_assets/js/bootstrap.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/js/owl-carousel-thumb.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/js/mail-script.js"></script>
+    <!--gmaps Js-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+    <script src="//www.viasacademy.com/front_assets/js/gmaps.min.js"></script>
+    <script src="//www.viasacademy.com/front_assets/js/theme.js"></script>
+	
+	<script>
+ 	
+
+ /*document.onkeydown = function (e) {
+    e = e || window.event;//Get event
+    if (e.ctrlKey) {  
+        var c = e.which || e.keyCode;//Get key code
+        switch (c) {
+            case 83://Block Ctrl+S
+            case 87://Block Ctrl+W --Not work in Chrome
+            case 73://Block Ctrl+I
+            case 67: //Block Ctrl+C
+                e.preventDefault();     
+                e.stopPropagation();
+            break;
+        }
+    }
+};*/
+  
+window.frames["iframne"].document.oncontextmenu = function(){ return false; };
+$('iframne').bind('contextmenu', function(e) {
+  window.alert('All Rights Reserved \u00A9');  
+  return false;
+});
+
+ // A $( document ).ready() block.
+$( document ).ready(function() {
+  if (document.cookie.indexOf('visited=true') == -1){
+    // load the overlay
+    $('#myModal').modal({show:true});
+    
+    var year = 1000*60*60*24*365;
+    var expires = new Date((new Date()).valueOf() + year);
+    document.cookie = "visited=true;expires=" + expires.toUTCString();
+
+  }
+}); 
+
+
+ 
+ 
+</script>
+
+
+
+  </body>
+</html>

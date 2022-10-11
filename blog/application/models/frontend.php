@@ -1,0 +1,1 @@
+<?phpif(!defined('BASEPATH')) exit('direct access not allowed');class frontend extends CI_Model{}// login methods   ?>
